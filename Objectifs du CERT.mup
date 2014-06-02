@@ -1,0 +1,288 @@
+{
+  "title": "Objectifs du CERT",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "satisfaire le client",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "avoir une offre qui correspond à leurs attentes",
+          "id": 3
+        },
+        "2": {
+          "title": "tarification avantageuse",
+          "id": 4
+        },
+        "3": {
+          "title": "indépendant, objectif, rapide, fiable",
+          "id": 5
+        },
+        "0.5": {
+          "title": "se faire connaître du client",
+          "id": 37,
+          "ideas": {
+            "1": {
+              "title": "visibilité web",
+              "id": 38,
+              "ideas": {
+                "1": {
+                  "title": "labellisation",
+                  "id": 44,
+                  "attr": {
+                    "style": {}
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "T.I.",
+                      "id": 45,
+                      "ideas": {},
+                      "attr": {
+                        "style": {
+                          "background": "#ffff00"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "CERT-CC",
+                      "id": 47,
+                      "attr": {
+                        "style": {
+                          "background": "#ffff00"
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "web amossys",
+                  "id": 42
+                },
+                "13": {
+                  "title": "wikipedia ?",
+                  "id": 40,
+                  "ideas": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      }
+    },
+    "2": {
+      "title": "satisfaire les collaborateurs",
+      "id": 10,
+      "ideas": {
+        "1": {
+          "title": "limiter les tâches fastidieuses",
+          "id": 11,
+          "ideas": {
+            "1": {
+              "title": "automatiser",
+              "id": 14
+            },
+            "2": {
+              "title": "(ré)utiliser des outils ou les développer",
+              "id": 15,
+              "ideas": {
+                "1": {
+                  "title": "RTIR",
+                  "id": 21,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "limiter la pression",
+          "id": 12,
+          "ideas": {
+            "1": {
+              "title": "éviter une affectation à 100% sur du support client",
+              "id": 16
+            }
+          }
+        },
+        "3": {
+          "title": "se former",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "formations T.I. : TRANSITS",
+              "id": 22,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
+            },
+            "2": {
+              "title": "disposer d'un formateur en interne",
+              "id": 34
+            },
+            "3": {
+              "title": "disposer d'un support de formation pratique en interne",
+              "id": 35,
+              "ideas": {
+                "1": {
+                  "title": "wiki",
+                  "id": 36,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      }
+    },
+    "-1": {
+      "title": "être profitable",
+      "id": 7,
+      "ideas": {
+        "1": {
+          "title": "factoriser les coûts",
+          "id": 8,
+          "ideas": {
+            "1": {
+              "title": "service d'alerte / avertissements : réexploitable par le pôle audit",
+              "id": 23,
+              "ideas": {
+                "1": {
+                  "title": "définir les conditions pour une bonne exploitabilité des données",
+                  "id": 48,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "limiter le nb d'E.T.P",
+          "id": 24,
+          "ideas": {
+            "1": {
+              "title": "traitement d'artefact : support pôle étude",
+              "id": 29
+            },
+            "3": {
+              "title": "audit de sécu / scan de vulnérabilité : support pôle audit",
+              "id": 32
+            },
+            "4": {
+              "title": "évaluation / certification : support pôle évaluation",
+              "id": 33
+            },
+            "0.5": {
+              "title": "traitement des incidents : support pôle audit",
+              "id": 31
+            },
+            "0.75": {
+              "title": "traitement de vulnérabilité : support pôle étude",
+              "id": 30
+            }
+          }
+        },
+        "3": {
+          "title": "organiser l'information",
+          "id": 26,
+          "ideas": {
+            "1": {
+              "title": "wiki",
+              "id": 27,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
+            }
+          }
+        },
+        "2.5": {
+          "title": "optimiser l'organisation",
+          "id": 53,
+          "ideas": {
+            "1": {
+              "title": "documenter l'organisation",
+              "id": 54,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
+            },
+            "2": {
+              "title": "identifier les points à améliorer / automatiser",
+              "id": 55,
+              "attr": {
+                "style": {
+                  "background": "#ffff00"
+                }
+              }
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff0000"
+        }
+      }
+    }
+  },
+  "links": [
+    {
+      "ideaIdFrom": 21,
+      "ideaIdTo": 14,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 17,
+      "ideaIdTo": 19,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": 27,
+      "ideaIdTo": 36,
+      "attr": {
+        "style": {
+          "color": "#FF0000",
+          "lineStyle": "dashed"
+        }
+      }
+    }
+  ]
+}
