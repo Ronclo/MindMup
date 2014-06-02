@@ -8,16 +8,108 @@
       "id": 2,
       "ideas": {
         "1": {
-          "title": "avoir une offre qui correspond à leurs attentes",
-          "id": 3
+          "title": "proposer une offre qui correspond à leurs attentes",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "indépendant",
+              "id": 60,
+              "ideas": {
+                "1": {
+                  "title": "inhérent aux statuts Amossys",
+                  "id": 69
+                }
+              }
+            },
+            "2": {
+              "title": "objectif",
+              "id": 66,
+              "ideas": {
+                "1": {
+                  "title": "idem",
+                  "id": 70
+                }
+              }
+            },
+            "3": {
+              "title": "rapide",
+              "id": 67,
+              "ideas": {
+                "1": {
+                  "title": "organisation claire, efficace",
+                  "id": 71,
+                  "ideas": {
+                    "2": {
+                      "title": "les procédures doivent être claires, comprises par tous et faciles à retrouver",
+                      "id": 76,
+                      "ideas": {
+                        "1": {
+                          "title": "prévoir des exercices / entraînements périodiques ?",
+                          "id": 78,
+                          "attr": {
+                            "style": {}
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "fiable",
+              "id": 68,
+              "ideas": {
+                "1": {
+                  "title": "procédure de relecture croisée et d'approbation",
+                  "id": 75
+                }
+              }
+            }
+          }
         },
         "2": {
           "title": "tarification avantageuse",
-          "id": 4
+          "id": 4,
+          "ideas": {
+            "1": {
+              "title": "définir l'offre client ...",
+              "id": 65,
+              "ideas": {
+                "2": {
+                  "title": "étudier les besoins clients actuels et le 'manque'",
+                  "id": 86,
+                  "attr": {
+                    "style": {}
+                  }
+                },
+                "12": {
+                  "title": "étudier la réponse apportée par la concurrence",
+                  "id": 85,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                }
+              }
+            }
+          }
         },
         "3": {
-          "title": "indépendant, objectif, rapide, fiable",
-          "id": 5
+          "title": "mesurer la satisfaction",
+          "id": 79,
+          "ideas": {
+            "1": {
+              "title": "vérification systématique (après incident)",
+              "id": 80
+            },
+            "2": {
+              "title": "vérification périodique (alertes & avertissements)",
+              "id": 81
+            }
+          }
         },
         "0.5": {
           "title": "se faire connaître du client",
@@ -147,6 +239,10 @@
               }
             }
           }
+        },
+        "0.5": {
+          "title": "mesurer la satisfaction (comment ?)",
+          "id": 83
         }
       },
       "attr": {
@@ -156,20 +252,100 @@
       }
     },
     "-1": {
-      "title": "être profitable",
-      "id": 7,
+      "title": "satisfaire Amossys",
+      "id": 56,
       "ideas": {
         "1": {
-          "title": "factoriser les coûts",
-          "id": 8,
+          "title": "gestion des coûts",
+          "id": 7,
           "ideas": {
             "1": {
-              "title": "service d'alerte / avertissements : réexploitable par le pôle audit",
-              "id": 23,
+              "title": "factoriser les coûts",
+              "id": 8,
               "ideas": {
                 "1": {
-                  "title": "définir les conditions pour une bonne exploitabilité des données",
-                  "id": 48,
+                  "title": "service d'alerte / avertissements : réexploitable par le pôle audit",
+                  "id": 23,
+                  "ideas": {
+                    "1": {
+                      "title": "définir les conditions pour une bonne exploitabilité des données",
+                      "id": 48,
+                      "attr": {
+                        "style": {
+                          "background": "#ffff00"
+                        }
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "échanger avec les responsables de pôle (synergies possibles ?)",
+                  "id": 87,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "limiter le nb d'E.T.P",
+              "id": 24,
+              "ideas": {
+                "1": {
+                  "title": "traitement d'artefact : support pôle étude",
+                  "id": 29
+                },
+                "3": {
+                  "title": "audit de sécu / scan de vulnérabilité : support pôle audit",
+                  "id": 32
+                },
+                "4": {
+                  "title": "évaluation / certification : support pôle évaluation",
+                  "id": 33
+                },
+                "0.5": {
+                  "title": "traitement des incidents : support pôle audit",
+                  "id": 31
+                },
+                "0.75": {
+                  "title": "traitement de vulnérabilité : support pôle étude",
+                  "id": 30
+                }
+              }
+            },
+            "3": {
+              "title": "organiser l'information",
+              "id": 26,
+              "ideas": {
+                "1": {
+                  "title": "wiki",
+                  "id": 27,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                }
+              }
+            },
+            "2.5": {
+              "title": "rationaliser l'organisation",
+              "id": 53,
+              "ideas": {
+                "1": {
+                  "title": "documenter l'organisation",
+                  "id": 54,
+                  "attr": {
+                    "style": {
+                      "background": "#ffff00"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "identifier les points à améliorer / automatiser",
+                  "id": 55,
                   "attr": {
                     "style": {
                       "background": "#ffff00"
@@ -178,72 +354,34 @@
                 }
               }
             }
-          }
-        },
-        "2": {
-          "title": "limiter le nb d'E.T.P",
-          "id": 24,
-          "ideas": {
-            "1": {
-              "title": "traitement d'artefact : support pôle étude",
-              "id": 29
-            },
-            "3": {
-              "title": "audit de sécu / scan de vulnérabilité : support pôle audit",
-              "id": 32
-            },
-            "4": {
-              "title": "évaluation / certification : support pôle évaluation",
-              "id": 33
-            },
-            "0.5": {
-              "title": "traitement des incidents : support pôle audit",
-              "id": 31
-            },
-            "0.75": {
-              "title": "traitement de vulnérabilité : support pôle étude",
-              "id": 30
+          },
+          "attr": {
+            "style": {
+              "background": "#c0c0c0"
             }
           }
         },
-        "3": {
-          "title": "organiser l'information",
-          "id": 26,
-          "ideas": {
-            "1": {
-              "title": "wiki",
-              "id": 27,
-              "attr": {
-                "style": {
-                  "background": "#ffff00"
-                }
-              }
-            }
-          }
+        "0.5": {
+          "title": "gestion des risques",
+          "id": 61
         },
-        "2.5": {
-          "title": "optimiser l'organisation",
-          "id": 53,
+        "0.25": {
+          "title": "interface de qualité",
+          "id": 62,
           "ideas": {
             "1": {
-              "title": "documenter l'organisation",
-              "id": 54,
-              "attr": {
-                "style": {
-                  "background": "#ffff00"
-                }
-              }
+              "title": "responsabilité claire",
+              "id": 63
             },
             "2": {
-              "title": "identifier les points à améliorer / automatiser",
-              "id": 55,
-              "attr": {
-                "style": {
-                  "background": "#ffff00"
-                }
-              }
+              "title": "reporting",
+              "id": 64
             }
           }
+        },
+        "0.75": {
+          "title": "mesurer la satisfaction (comment ?)",
+          "id": 84
         }
       },
       "attr": {
